@@ -74,7 +74,7 @@ cd linear-regression-scratch-vs-sklearn
 Install dependencies:
 pip install -r requirements.txt
 
-
+python linear_regression_scratch.py
 
 
 📁 Files to include in your repo:
